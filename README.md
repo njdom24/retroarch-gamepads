@@ -1,6 +1,6 @@
 # TODO
 - [x] Make fitting RetroArch meta buttons
-- [ ] Move landscape buttons / dpad up
+- [x] Move landscape buttons / dpad up
 - [ ] Update screenshots
 - [ ] Implement outline ver. overlay
 
